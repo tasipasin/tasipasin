@@ -5,11 +5,8 @@ Software Developer Analyst @ [RRS Software](https://www.linkedin.com/company/rrs
 
 *This Github profile has been used for personal projects and learning purposes. All my work commits goes to Bitbucket.*
 
-**I like to play video games, listen to music, make jokes, reading, do nothing and discover new interests.** <br>
+**I like to play video games, listen to music, have fun, reading, do nothing and discover new interests.** <br>
 **I'm currently on my snail, but constant, path to be an Embedded Software Engineer.** <br>
-
-*Here's a joke for you to make your day better: <br>*
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasipasin)
 
