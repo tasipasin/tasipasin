@@ -9,7 +9,7 @@ Software Developer Analyst @ [RRS Software](https://www.linkedin.com/company/rrs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasipasin)
 
-[You can find more from me here](https://steamcommunity.com/id/tasigp/)
+[You can find more from me here](https://www.linkedin.com/in/tasi-guilhen-pasin-528bb816a/)
 
 <!--
 **tasipasin/tasipasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
