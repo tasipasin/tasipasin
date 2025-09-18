@@ -1,7 +1,7 @@
 ## Hello there, I'm Tasi 👋
 
-Computer Engineer @ [PUCPR](https://www.pucpr.br/)<br>
-Software Developer @ [RRS Software](https://www.linkedin.com/company/rrs-software-ltda-/)
+Computer Engineer by [PUCPR](https://www.pucpr.br/)<br>
+Software Engineer III @ [Guidewire Software](https://www.linkedin.com/company/guidewire-software)
 
 *This Github profile has been used for personal projects and learning purposes. All my work commits goes to Bitbucket.*
 
